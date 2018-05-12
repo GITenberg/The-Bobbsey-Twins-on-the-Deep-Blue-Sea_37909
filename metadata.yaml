@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/367
     wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37909#The-Bobbsey-Twins-on-the-Deep-Blue-Sea
 gutenberg_issued: '2011-11-02'
 gutenberg_type: Text
 identifiers:
